@@ -1,0 +1,23 @@
+body{
+    background-color: #f8f0e3;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+li{
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    height: 200px;
+}
+
